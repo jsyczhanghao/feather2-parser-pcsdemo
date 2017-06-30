@@ -1,10 +1,10 @@
 # feather2-parser-pcsdemo
 
-##安装
+## 安装
 
 `npm install [-g] feather2-parser-pcsdemo`
 
-##使用
+## 使用
 ```
 feather.match('**.{css,less}',{
     parser: feather.plugin('pcsdemo', {
